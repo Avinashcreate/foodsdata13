@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "26586000000043001",
+      "name": "GOODDATA13APIDATA",
+      "domain": {
+        "id": "50038641286",
+        "name": "gooddata13apidata-60061014962.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60061014962",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

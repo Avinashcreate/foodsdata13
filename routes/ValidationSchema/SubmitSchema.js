@@ -14,5 +14,5 @@ const SubmitSchema  = mongoose.Schema({
         type:Number
     }
 })
-const excutedFlowSumbitData = mongoose.model('GoodProductDataStore',SubmitSchema)
+const excutedFlowSumbitData = mongoose.model('news',SubmitSchema)
 module.exports = excutedFlowSumbitData;
